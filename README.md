@@ -1,1 +1,1 @@
-# RAG-based-Application-Tracking-System-ATS
+# AI-based-Application-Tracking-System-ATS
